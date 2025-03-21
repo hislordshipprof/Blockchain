@@ -22,7 +22,7 @@ This project demonstrates a modern blockchain web application built using Web3.0
 
 ## Setup Instructions
 ```bash
-git clone [your-repository-link]
+git clone (https://github.com/hislordshipprof/Blockchain.git)
 cd blockchain-web3-app
 npm install
 npm run dev
